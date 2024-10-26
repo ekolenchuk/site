@@ -11,3 +11,6 @@
 
 ## Внешний вид калькулятора
 ![Внешний вид калькулятора](https://github.com/AndreyFilippovich/calculator/blob/main/photo.png)
+
+## Автор проекта
+[AndreyFilippovich](https://github.com/AndreyFilippovich)
