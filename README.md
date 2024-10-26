@@ -11,26 +11,3 @@
 
 ## Внешний вид калькулятора
 ![Внешний вид калькулятора](https://github.com/AndreyFilippovich/calculator/blob/main/photo.png)
-
-## Запуск проекта:
-
-#### Склонировать репозиторий:
-> https://github.com/AndreyFilippovich/calculator.git
-
-#### Если ранее не пользовались, то скачать виртуальное окружение:
-> pip install virtualenv
-
-#### Установить виртуальное окружение:
-> python -m venv venv
-
-#### Активировать виртуальное окружение:
-> source venv/scripts/activate
-
-#### Установить зависимости командой:
-> pip install -r requirements.txt
-
-#### Запустить проект командой:
-> python main.py
-
-## Автор проекта
-[AndreyFilippovich](https://github.com/AndreyFilippovich)
